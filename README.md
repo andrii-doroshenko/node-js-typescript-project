@@ -7,7 +7,7 @@ This is a sample Node.js project using TypeScript. It includes basic configurati
 Before running the project, make sure you have Node.js and npm installed. Clone the repository and install the dependencies using the following commands:
 
 ```bash
-git clone https://github.com/your-username/node-js-typescript-project.git
+git clone https://github.com/andrii-doroshenko/node-js-typescript-project.git
 cd node-js-typescript-project
 npm install
 ```
